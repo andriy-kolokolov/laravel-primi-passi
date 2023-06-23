@@ -9,8 +9,8 @@
 </head>
 <body>
 
-@include('header')
-
+    @include('header')
+    <h1 class="text-center mt-5">THIS IS <strong class="text-success">MY LIST</strong> PAGE CONTENT</h1>
 
 
 

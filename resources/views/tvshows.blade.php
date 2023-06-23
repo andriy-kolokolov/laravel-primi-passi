@@ -9,7 +9,8 @@
 </head>
 <body>
 
-@include('header')
+    @include('header')
+    <h1 class="text-center mt-5">THIS IS <strong class="text-success">TV SHOWS</strong> PAGE CONTENT</h1>
 
 
 
